@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">amiibo</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="Amiibo">
+        <item>Characters</item>
+
+    </string-array>
+
+    <string-array name="Characters">
+        <item>Mewtwo</item>
+        <item>Splatoon</item>
+        <item>Retro</item>
+    </string-array>
+
+
+</resources>
